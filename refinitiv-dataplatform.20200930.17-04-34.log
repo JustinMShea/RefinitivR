@@ -1,0 +1,22 @@
+[2020-09-30 17:07:56,816] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with wrongRic: Invalid RIC
+[2020-09-30 17:08:38,460] - [session] - [ERROR] - [json_requests] - [check_server_error] - Backend error. 400 Bad Request
+[2020-09-30 17:09:14,810] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:14,811] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:15,710] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:15,710] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:18,170] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:18,170] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:18,857] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:18,857] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:20,167] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:20,167] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:20,851] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:20,851] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:22,038] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:22,038] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:22,726] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:22,726] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:24,752] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:24,753] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
+[2020-09-30 17:09:25,345] - [session] - [WARNING] - [time_series] - [get_timeseries] - Error with FBHS.K: No data available for the requested date range
+[2020-09-30 17:09:25,345] - [session] - [ERROR] - [time_series] - [get_timeseries] - FBHS.K: No data available for the requested date range | 
